@@ -1,6 +1,6 @@
  /*
  AUTOR: Javier Farrona Cabrera
- FECHA: 18/02/2023
+ FECHA: 11/02/2024
  EMAIL: alu0101541983@ull.edu.es
  VERSION: 1.0
  ASIGNATURA: Algoritmos y Estructuras de Datos
@@ -9,8 +9,6 @@
               "C++ Programming Style Guidelines"
               https://geosoft.no/development/cppstyle.html
 */
-
-// comentarios multilínea usando "/* */"
 
 #pragma once
 
